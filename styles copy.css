@@ -1,0 +1,41 @@
+body {
+	background-color: black;
+}
+
+div#container {
+	width:800px;
+	border:1px solid white;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div#header{
+	background-color:white;
+	color:black;
+	text-align:center;
+	padding:20px;
+	margin:50px;
+	font-family:"Comic Sans MS";
+}
+div#nav{
+	background-color:white;
+	color:black;
+	padding:20px;
+	text-align:center;
+	float:left;
+	font-family:"Comic Sans MS";
+	font-style:bold;
+	width:109px;
+}
+
+div#nav a {
+	text-decoration: none;
+	color: black}
+
+div#section{
+	background-color: white;
+	color: black;
+	font-family: "Comic Sans MS";
+	float: center;
+	margin-left: 150px;
+}
