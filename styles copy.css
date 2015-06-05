@@ -39,3 +39,8 @@ div#section{
 	float: center;
 	margin-left: 150px;
 }
+
+div#fb-like{
+	float:center;
+	background-color:white;
+}
