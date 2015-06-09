@@ -26,6 +26,7 @@ div#nav{
 	font-family:"Arial";
 	font-style:bold;
 	width:109px;
+	margin-top:50px;
 }
 
 div#nav a {
@@ -38,7 +39,8 @@ div#section{
 	font-family: "Arial";
 	float: center;
 	margin-left: 150px;
-	border-style:none
+	margin-top:50px;
+	border-style:none;
 }
 
 div#fb-like{
