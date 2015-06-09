@@ -38,6 +38,7 @@ div#section{
 	font-family: "Arial";
 	float: center;
 	margin-left: 150px;
+	border-style:none
 }
 
 div#fb-like{
