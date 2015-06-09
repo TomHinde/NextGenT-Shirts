@@ -3,7 +3,7 @@ body {
 }
 
 div#container {
-	width:1200px;
+	width:1290px;
 	border:1px solid black;
 	margin-left:auto;
 	margin-right:auto;
@@ -26,7 +26,6 @@ div#nav{
 	font-family:"Arial";
 	font-style:bold;
 	width:109px;
-	margin-top:50px;
 }
 
 div#nav a {
